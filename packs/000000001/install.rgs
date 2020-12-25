@@ -1,5 +1,4 @@
 {
-	main: 
-	Mname: World edit
-	"https:\\lol\world-edit.jar"
+	id: "id"
+	name: "name"
 }
