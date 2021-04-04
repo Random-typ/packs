@@ -1,6 +1,6 @@
 <UPDATESCRIPT>
 	<STEPS value="8"/>
-	<BY value="random typ & test"/>
+	<BY value="random typ &amp; test"/>
 	<NAME value="test2"/>
 	<VERSION value="1.0.1"/>
 	<FORGEJSON url="none" name="1.12.2-forge-14.23.5.2854" value='
