@@ -1,10 +1,9 @@
 <INSTALLSCRIPT>
-	<STEPS value="6"/>
+	<STEPS value="8"/>
 	<ID value="000000003"/>
 	<BY value="random typ"/>
 	<NAME value="test"/>
 	<VERSION value="1.0.0"/>
-	<!--<MAIN url=""/>-->
 	<FORGEJSON url="none" name="1.12.2-forge-14.23.5.2854" value='
 			   {
     "_comment_": [
@@ -246,7 +245,7 @@
     ]
 }			   		   
 '/>
-	<DIR path="none"/>
+	<DIR path="test"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1Ucfa4Gyrb7R50vi-tk7aonD6G892g47M&amp;export=download" path="mods"/>
-	<SINGLEFILE url="none" path="none"/>
+	<SINGLEFILE url="https://drive.google.com/u/0/uc?id=1Ucfa4Gyrb7R50vi-tk7aonD6G892g47M&amp;export=download" path="test/test.txt"/>
 </INSTALLSCRIPT>
