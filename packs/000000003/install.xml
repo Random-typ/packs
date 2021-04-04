@@ -247,5 +247,5 @@
 '/>
 	<DIR path="test"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1Ucfa4Gyrb7R50vi-tk7aonD6G892g47M&amp;export=download" path="mods"/>
-	<SINGLEFILE url="https://drive.google.com/u/0/uc?id=1Ucfa4Gyrb7R50vi-tk7aonD6G892g47M&amp;export=download" path="test/test.txt"/>
+	<FILE url="https://drive.google.com/u/0/uc?id=1Ucfa4Gyrb7R50vi-tk7aonD6G892g47M&amp;export=download" path="test/test.txt"/>
 </INSTALLSCRIPT>
