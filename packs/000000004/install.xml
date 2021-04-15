@@ -249,6 +249,6 @@
 	<DIR path="resources"/>
 	<DIR path="config"/>
 	<UNZIP url="https://onedrive.live.com/download?cid=E8BD9A419838A607&resid=E8BD9A419838A607%213442&authkey=AJwEV887cbEujJM" path="mods"/>
-	<UNZIP url="https://onedrive.live.com/download?cid=E8BD9A419838A607&resid=E8BD9A419838A607%213442&authkey=AJwEV887cbEujJM" path="resources"/>
-	<UNZIP url="https://onedrive.live.com/download?cid=E8BD9A419838A607&resid=E8BD9A419838A607%213442&authkey=AJwEV887cbEujJM" path="config"/>
+	<UNZIP url="https://onedrive.live.com/download?cid=E8BD9A419838A607&resid=E8BD9A419838A607%213444&authkey=ABNAwGFpeejW3jw" path="resources"/>
+	<UNZIP url="https://onedrive.live.com/download?cid=E8BD9A419838A607&resid=E8BD9A419838A607%213443&authkey=AOXUl9X4Ti0vQBo" path="config"/>
 </INSTALLSCRIPT>
