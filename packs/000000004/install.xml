@@ -266,4 +266,7 @@
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1e28LBieCkWRnkIcYsPoo_VnHEMA-f9L8&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1iekqrcvk2ersw8K8Qf_N544OWbZ-X5Mk&amp;export=download" path="resources"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1US0dNuc8PJXIKPtnRnEwxjMDpZS0eaCA&amp;export=download" path="config"/>
+	<FILE url="https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/download/2716590/file" name="astralsorcery-1.12.2-1.10.19.jar" path="mods"/>
+	<FILE url="https://www.curseforge.com/minecraft/mc-mods/minecolonies/download/2756315/file" name="minecolonies-1.12.2-0.10.341-ALPHA-universal.jar" path="mods"/>
+	<FILE url="https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/download/2743842/file" name="astralsorcery-1.12.2-1.10.19.jar" path="mods"/>
 </INSTALLSCRIPT>
