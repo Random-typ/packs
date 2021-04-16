@@ -248,22 +248,22 @@
 	<DIR path="mods"/>
 	<DIR path="resources"/>
 	<DIR path="config"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1sPOslJBrl2aAzmZ4q7rXZpqtrNkxF3gZ&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1jU5Ezm9i4h4Ic2cSwDu4p69qzvrtJyZM&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1Ey2Sead5VoRhSIeTb8X_CeWRPM4BzbSY&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1eLLYy85-BxbUd1wM62jZH9s3Zzj0DN4E&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1aQBetJRFrLtFZ7aQJyrkMk3Zxb2NxWQE&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1Cnrji6iQqQnEO7yEJ3wwtJRc0aVpQWa1&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1ztxSigpmxz4FobQOCHaBW3omivN5WfjE&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1j1goMNgcIgUvvnnLKqFhSOWuzJmBD2u9&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1HXf34d3pBPPKVAGX0yZSIgEY8N2YrF9X&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1TQ9MS6ZcZBUVCLz6nTa1OLHkSGpO_ktV&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=14pytxPFmnz6cAQQs9FP3GKqk6PIa3ZU9&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1Hmp7qSSJhJJ5DJI9pISrpUUk0k68OmPG&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1gu2u35grr0BQe9py7TBWIJKTgHhLF_-g&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1CRrMQJIl6lp0bmGYgtMYVsp0UVmwljUe&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1_C9iAp3YmI-cNVPTBp5qCuR6NFjta_lp&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1e28LBieCkWRnkIcYsPoo_VnHEMA-f9L8&export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1iekqrcvk2ersw8K8Qf_N544OWbZ-X5Mk&export=download" path="resources"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1US0dNuc8PJXIKPtnRnEwxjMDpZS0eaCA&export=download" path="config"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1sPOslJBrl2aAzmZ4q7rXZpqtrNkxF3gZ&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1jU5Ezm9i4h4Ic2cSwDu4p69qzvrtJyZM&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1Ey2Sead5VoRhSIeTb8X_CeWRPM4BzbSY&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1eLLYy85-BxbUd1wM62jZH9s3Zzj0DN4E&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1aQBetJRFrLtFZ7aQJyrkMk3Zxb2NxWQE&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1Cnrji6iQqQnEO7yEJ3wwtJRc0aVpQWa1&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1ztxSigpmxz4FobQOCHaBW3omivN5WfjE&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1j1goMNgcIgUvvnnLKqFhSOWuzJmBD2u9&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1HXf34d3pBPPKVAGX0yZSIgEY8N2YrF9X&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1TQ9MS6ZcZBUVCLz6nTa1OLHkSGpO_ktV&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=14pytxPFmnz6cAQQs9FP3GKqk6PIa3ZU9&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1Hmp7qSSJhJJ5DJI9pISrpUUk0k68OmPG&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1gu2u35grr0BQe9py7TBWIJKTgHhLF_-g&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1CRrMQJIl6lp0bmGYgtMYVsp0UVmwljUe&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1_C9iAp3YmI-cNVPTBp5qCuR6NFjta_lp&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1e28LBieCkWRnkIcYsPoo_VnHEMA-f9L8&amp;export=download" path="mods"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1iekqrcvk2ersw8K8Qf_N544OWbZ-X5Mk&amp;export=download" path="resources"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1US0dNuc8PJXIKPtnRnEwxjMDpZS0eaCA&amp;export=download" path="config"/>
 </INSTALLSCRIPT>
