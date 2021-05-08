@@ -1,0 +1,6 @@
+Bug Fixes:
+
+Internal fixes for downloads.
+Fixed downloads for packs
+Edited the update abilatty of packs.
+Optimised most functions.
