@@ -6,7 +6,11 @@ This folder contains all "update files" for Packs.
 
 This file contains the latest version number of Packs e. g. 1.0.1
 
-# -Installer.exe
+# Packs-.exe
+
+This file is the actual new Packs.exe that the updater will download.
+
+# -updater.exe
 
 This is the actual updater. when a newer version is availabe packs will download this file and execute it and then close it self.
 The file will then update Packs.
