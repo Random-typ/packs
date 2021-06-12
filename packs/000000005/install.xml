@@ -1,4 +1,4 @@
-<INSTALLSCRIPT>
+<PACKS-INSTALLSCRIPT>
 	<STEPS value="24"/>
 	<ID value="000000005"/>
 	<BY value="ATM Team | modified by Random typ"/>
@@ -466,4 +466,4 @@
 	<FILE url="https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/download/3156477/file" name="astralsorcery-1.16.4-1.13.9.jar" path="mods"/>
 	<FILE url="https://www.curseforge.com/minecraft/mc-mods/minecolonies/download/3260976/file" name="minecolonies-0.14.76-ALPHA-universal.jar" path="mods"/>
 	<FILE url="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/download/3269345/file" name="twilightforest-1.16.5-4.0.426-universal.jar" path="mods"/>
-</INSTALLSCRIPT>
+</PACKS-INSTALLSCRIPT>
