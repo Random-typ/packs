@@ -35,16 +35,16 @@
             "server": "[net.minecraft:server:1.16.5-20210115.111550:slim]"
         },
         "MC_SLIM_SHA": {
-            "client": "'045d6edac8fe1b004e159c49704b5b729f551079'",
-            "server": "'2042be92779b25878580d9c3662756179a5dc55c'"
+            "client": "045d6edac8fe1b004e159c49704b5b729f551079",
+            "server": "&apos;2042be92779b25878580d9c3662756179a5dc55c&apos;"
         },
         "MC_EXTRA": {
             "client": "[net.minecraft:client:1.16.5-20210115.111550:extra]",
             "server": "[net.minecraft:server:1.16.5-20210115.111550:extra]"
         },
         "MC_EXTRA_SHA": {
-            "client": "'4aef4168f94d97bc73bf510213b2518942f931d1'",
-            "server": "'48927cadca203a714dcc60ee80533c74e74d3a3f'"
+            "client": "&apos;4aef4168f94d97bc73bf510213b2518942f931d1&apos;",
+            "server": "&apos;48927cadca203a714dcc60ee80533c74e74d3a3f&apos;"
         },
         "MC_SRG": {
             "client": "[net.minecraft:client:1.16.5-20210115.111550:srg]",
@@ -55,12 +55,12 @@
             "server": "[net.minecraftforge:forge:1.16.5-36.1.31:server]"
         },
         "PATCHED_SHA": {
-            "client": "'7d91f14724aeead988ca0a307ea336444dabb703'",
-            "server": "'5f222ec9c8050d39d7db78522c03627bb9592a6b'"
+            "client": "&apos;7d91f14724aeead988ca0a307ea336444dabb703&apos;",
+            "server": "&apos;5f222ec9c8050d39d7db78522c03627bb9592a6b&apos;"
         },
         "MCP_VERSION": {
-            "client": "'20210115.111550'",
-            "server": "'20210115.111550'"
+            "client": "&apos;20210115.111550&apos;",
+            "server": "&apos;20210115.111550&apos;"
         }
     },
     "processors": [
@@ -448,7 +448,7 @@
 }
 '/>
 	<DIR path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1gz3-7Mt1PaUVPTvrbSVsKjIlH5o3hlAA&amp;export=download" path=""/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1gz3-7Mt1PaUVPTvrbSVsKjIlH5o3hlAA&amp;export=download" path="none"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1vrwfmhY-mqqfvXq5ACym7VG6eiO3R-gK&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1tFolexs3DsjJdo8P5t21QVTlFVzlRZ3a&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1TPJHzhpsms4Gg9HaAdxXKFQs0FRnXnWU&amp;export=download" path="mods"/>
