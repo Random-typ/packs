@@ -1,5 +1,5 @@
 <PACKS-INSTALLSCRIPT>
-	<STEPS value="28"/>
+	<STEPS value="29"/>
 	<ID value="000000005"/>
 	<BY value="ATM Team | modified by Random typ"/>
 	<NAME value="ATM-6   Custom"/>
@@ -9,6 +9,7 @@
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1ZssAAc4DjLefAEyS9fqaA8nD1OKvxyar&amp;export=download" path="none"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1gz3-7Mt1PaUVPTvrbSVsKjIlH5o3hlAA&amp;export=download" path="none"/>
 	<DIR path="libraries/net/minecraft/client"/>
+	<DIR path="libraries/net/minecraft/client/1.16.5-20210115.111550"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1vrwfmhY-mqqfvXq5ACym7VG6eiO3R-gK&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1tFolexs3DsjJdo8P5t21QVTlFVzlRZ3a&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1TPJHzhpsms4Gg9HaAdxXKFQs0FRnXnWU&amp;export=download" path="mods"/>
