@@ -4,7 +4,7 @@
 	<BY value="ATM Team | modified by Random typ"/>
 	<NAME value="ATM-6   Custom"/>
 	<VERSION value="1.0.0"/>
-	<FORGEJSON url="none" name="1.16.5-forge-36.1.31" value="none" install="FALSE"/>
+	<FORGEJSON url="none" name="forge-36.1.2" value="none" install="FALSE"/>
 	<DIR path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1X1K9gdgEFSHTcbVug--onn1zJTjAzmcB&amp;export=download" path="none"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1ZssAAc4DjLefAEyS9fqaA8nD1OKvxyar&amp;export=download" path="none"/>
