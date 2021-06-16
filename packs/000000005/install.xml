@@ -9,7 +9,7 @@
 	<FORGELIBRARY zip="true" url="https://drive.google.com/u/0/uc?id=1f4Xl3F1PqhB0Asy-oMEQxExLKseXF1us&amp;export=download" path="libraries"/>
 	<FORGELIBRARY zip="true" url="https://drive.google.com/u/0/uc?id=1YKmPy4GOC8rYymyVFf2zgR7roQSRMNcS&amp;export=download" path="libraries/net"/>
 	<FORGELIBRARY zip="true" url="https://drive.google.com/u/0/uc?id=182oxDmwpN1zaCfHRth_ejDz-5muXCgSP&amp;export=download" path="libraries/net"/>
-	<FORGELIBRARY zip="false" url="https://drive.google.com/u/0/uc?id=1FzWGLERXCB87_qiUerRfjZLSghdk8M3w&amp;export=download" path="libraries/net/minecraft/client/1.16.5-20210115.111550"/>
+	<FORGELIBRARY zip="false" url="https://drive.google.com/u/0/uc?id=1FzWGLERXCB87_qiUerRfjZLSghdk8M3w&amp;export=download" name="client-1.16.5-20210115.111550-srg.jar" path="libraries/net/minecraft/client/1.16.5-20210115.111550"/>
 	<DIR path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1gz3-7Mt1PaUVPTvrbSVsKjIlH5o3hlAA&amp;export=download" path="none"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1QUUULckA6jifi_mD5m32qHW8DPVZau2S&amp;export=download" path="none"/>
