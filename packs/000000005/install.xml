@@ -5,12 +5,14 @@
 	<NAME value="ATM-6   Custom"/>
 	<VERSION value="1.0.0"/>
 	<FORGEJSON url="none" name="forge-36.1.2" value="none" install="FALSE"/>
+	<FORGELIBRARY zip="true" url="https://drive.google.com/u/0/uc?id=1VPHBM6bhSTZSCC05UYiKelU4MdH62rdN&amp;export=download" path="versions"/>
+	<FORGELIBRARY zip="true" url="https://drive.google.com/u/0/uc?id=1f4Xl3F1PqhB0Asy-oMEQxExLKseXF1us&amp;export=download" path="libraries"/>
+	<FORGELIBRARY zip="true" url="https://drive.google.com/u/0/uc?id=1YKmPy4GOC8rYymyVFf2zgR7roQSRMNcS&amp;export=download" path="libraries/net"/>
+	<FORGELIBRARY zip="true" url="https://drive.google.com/u/0/uc?id=182oxDmwpN1zaCfHRth_ejDz-5muXCgSP&amp;export=download" path="libraries/net"/>
+	<FORGELIBRARY zip="false" url="https://drive.google.com/u/0/uc?id=1FzWGLERXCB87_qiUerRfjZLSghdk8M3w&amp;export=download" path="libraries/net/minecraft/client/1.16.5-20210115.111550"/>
 	<DIR path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1X1K9gdgEFSHTcbVug--onn1zJTjAzmcB&amp;export=download" path="none"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1ZssAAc4DjLefAEyS9fqaA8nD1OKvxyar&amp;export=download" path="none"/>
+	<UNZIP url="https://drive.google.com/u/0/uc?id=1gz3-7Mt1PaUVPTvrbSVsKjIlH5o3hlAA&amp;export=download" path="none"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1QUUULckA6jifi_mD5m32qHW8DPVZau2S&amp;export=download" path="none"/>
-	<DIR path="libraries/net/minecraft/client"/>
-	<DIR path="libraries/net/minecraft/client/1.16.5-20210115.111550"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1vrwfmhY-mqqfvXq5ACym7VG6eiO3R-gK&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1tFolexs3DsjJdo8P5t21QVTlFVzlRZ3a&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1TPJHzhpsms4Gg9HaAdxXKFQs0FRnXnWU&amp;export=download" path="mods"/>
@@ -25,8 +27,6 @@
 	<UNZIP url="https://drive.google.com/u/0/uc?id=118j3MR54Rh0m1Nvnxd4oTy3I7F0FTU59&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1IfGuApKC8y_lf8k42jdLenGroMWstEuT&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1qPRyzcy22doqnNbLjxk144If48SPzlYn&amp;export=download" path="mods"/>
-	<UNZIP url="https://drive.google.com/u/0/uc?id=1A8V-dysULvacllT_MtIUkIRj6FqX8REx&amp;export=download" path="libraries\net\minecraft\client\1.16.5-20210115.111550"/>
-	<FILE url="https://drive.google.com/u/0/uc?id=1ZY4220cPUabA6wrCgYvLQTkOXiYUsSAa&amp;export=download" name="client-1.16.5-20210115.111550-slim.jar" path="libraries\net\minecraft\client\1.16.5-20210115.111550"/>
 	<FILE url="https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/download/3156477/file" name="astralsorcery-1.16.4-1.13.9.jar" path="mods"/>
 	<FILE url="https://www.curseforge.com/minecraft/mc-mods/minecolonies/download/3260976/file" name="minecolonies-0.14.76-ALPHA-universal.jar" path="mods"/>
 	<FILE url="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/download/3269345/file" name="twilightforest-1.16.5-4.0.426-universal.jar" path="mods"/>
