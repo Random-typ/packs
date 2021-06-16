@@ -27,7 +27,7 @@
 	<UNZIP url="https://drive.google.com/u/0/uc?id=118j3MR54Rh0m1Nvnxd4oTy3I7F0FTU59&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1IfGuApKC8y_lf8k42jdLenGroMWstEuT&amp;export=download" path="mods"/>
 	<UNZIP url="https://drive.google.com/u/0/uc?id=1qPRyzcy22doqnNbLjxk144If48SPzlYn&amp;export=download" path="mods"/>
-	<FILE url="https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/download/3156477/file" name="astralsorcery-1.16.4-1.13.9.jar" path="mods"/>
-	<FILE url="https://www.curseforge.com/minecraft/mc-mods/minecolonies/download/3260976/file" name="minecolonies-0.14.76-ALPHA-universal.jar" path="mods"/>
-	<FILE url="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/download/3269345/file" name="twilightforest-1.16.5-4.0.426-universal.jar" path="mods"/>
+	<FILE url="https://cdn.discordapp.com/attachments/548535287932911616/854771876827103242/astralsorcery-1.16.4-1.13.9.jar" name="astralsorcery-1.16.4-1.13.9.jar" path="mods"/>
+	<FILE url="https://cdn.discordapp.com/attachments/548535287932911616/854771914257203290/minecolonies-0.14.76-ALPHA-universal.jar" name="minecolonies-0.14.76-ALPHA-universal.jar" path="mods"/>
+	<FILE url="https://cdn.discordapp.com/attachments/548535287932911616/854770296279269376/twilightforest-1.16.5-4.0.426-universal.jar" name="twilightforest-1.16.5-4.0.426-universal.jar" path="mods"/>
 </PACKS-INSTALLSCRIPT>
