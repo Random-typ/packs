@@ -1,1 +1,7 @@
-
+<UPDATESCRIPT>
+	<STEPS value="4"/>
+	<BY value="ATM Team | Modified Random typ"/>
+	<NAME value="ATM 6"/>
+	<VERSION value="1.0.1"/>
+	<FILE url="https://drive.google.com/u/0/uc?id=1-J4NNfVuO9XB99u-T-CJ9fq3BDB94ZOp&amp;export=download" path="testdir/testdir2/test.txt"/>
+</UPDATESCRIPT>
