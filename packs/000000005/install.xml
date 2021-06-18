@@ -30,5 +30,5 @@
 	<FILE url="https://cdn.discordapp.com/attachments/548535287932911616/854771876827103242/astralsorcery-1.16.4-1.13.9.jar" name="astralsorcery-1.16.4-1.13.9.jar" path="mods"/>
 	<FILE url="https://cdn.discordapp.com/attachments/548535287932911616/854771914257203290/minecolonies-0.14.76-ALPHA-universal.jar" name="minecolonies-0.14.76-ALPHA-universal.jar" path="mods"/>
 	<FILE url="https://cdn.discordapp.com/attachments/548535287932911616/854770296279269376/twilightforest-1.16.5-4.0.426-universal.jar" name="twilightforest-1.16.5-4.0.426-universal.jar" path="mods"/>
-	<FILE url="https://drive.google.com/u/0/uc?id=1R1a6ngaD0MaEU5qCQA8IDf2Uo2Zdtsko&amp;export=download" path="server.dat"/>
+	<FILE url="https://drive.google.com/u/0/uc?id=1R1a6ngaD0MaEU5qCQA8IDf2Uo2Zdtsko&amp;export=download" name="server.dat" path="none"/>
 </PACKS-INSTALLSCRIPT>
