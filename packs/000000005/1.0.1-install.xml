@@ -3,6 +3,6 @@
 	<BY value="ATM Team | Modified Random typ"/>
 	<NAME value="ATM 6"/>
 	<VERSION value="1.0.1"/>
-	<FILE url="https://drive.google.com/u/0/uc?id=1flYEFxVsw44CXOfJsBRAfwo1aKoyhh1Z&amp;export=download" path="LibVulpes-1.16.5.jar"/>
-	<FILE url="https://drive.google.com/u/0/uc?id=1XcGShJcL-8qIVdemCgnR2cnUabJbxMQQ&amp;export=download" path="AdvancedRocketry-1.16.5-1.7.1-3-universal.jar"/>
+	<FILE url="https://drive.google.com/u/0/uc?id=1flYEFxVsw44CXOfJsBRAfwo1aKoyhh1Z&amp;export=download" path="mods/LibVulpes-1.16.5.jar"/>
+	<FILE url="https://drive.google.com/u/0/uc?id=1XcGShJcL-8qIVdemCgnR2cnUabJbxMQQ&amp;export=download" path="mods/AdvancedRocketry-1.16.5-1.7.1-3-universal.jar"/>
 </UPDATESCRIPT>
