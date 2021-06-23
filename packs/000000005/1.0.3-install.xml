@@ -1,7 +1,7 @@
 <UPDATESCRIPT>
-	<STEPS value="5"/>
+	<STEPS value="4"/>
 	<BY value="ATM Team | Modified Random typ"/>
 	<NAME value="ATM 6"/>
-	<VERSION value="1.0.2"/>
-	<FILE path="mods/LibVulpes-1.16.5.jar"/>
+	<VERSION value="1.0.3"/>
+	<FILE url="https://cdn.discordapp.com/attachments/657732064136790016/857361403202240562/rpgstats-4.0.51.16.5.jar" path="mods/rpgstats-4.0.5+1.16.5.jar"/>
 </UPDATESCRIPT>
